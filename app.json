@@ -1,0 +1,11 @@
+{
+    "name": "GECSW",
+
+    "requires": [
+        'Ext.ux.view.HtmlPage',
+        'Ext.ux.util.Format',
+        'Ext.ux.data.proxy.Ajax'
+    ],
+
+    "id": "29c58b22-23d9-4e4b-99ec-7430371b0fae"
+}
